@@ -1,0 +1,9 @@
+<script>
+        var nota = 7
+var nota = prompt("fale sua nota")
+if (nota >= 7) {
+    document.write ("Você está a cima da média")
+} else {
+    document.write ("Você está abaixo da média")
+}
+    </script>
